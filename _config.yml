@@ -1,10 +1,7 @@
 
 ### Site Settings ###
 title               : Aadithya Chandra
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+description         : I enjoy working on cluster management, load balancing and performance of cloud native systems. At AWS and Confluent, I have helped design, build, deploy, optimize and operate search and storage systems. I enjoy working on open source systems and am a committer on Open Distro for Elasticsearch. I have worked on numerous features and improvements around cross-region replication, replica placement, multi-az clusters and performance tuning at Amazon Aurora, Amazon Elasticsearch Service and now Confluent Cloud. 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
@@ -12,7 +9,6 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-remote-theme
 
 
 ### Navbar Settings ###
@@ -27,22 +23,21 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Aadithya Chandra
   image             : portrait.jpg
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : aadithya.c@gmail.com
+  github            : ditac
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : aadithya-c-874bb920
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : aadithya
 # vimeo             : your_username
 # youtube           : your_channel_name
 
