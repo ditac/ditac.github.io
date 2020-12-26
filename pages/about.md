@@ -8,12 +8,8 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I enjoy working on large scale distributed systems and have primarily focused on cluster management, load balancing and performance of elastic cloud-native clusters. At AWS and Confluent, I have helped design, build, deploy, optimize and operate large scale search, stream processing and storage systems. I enjoy working on open source systems and am a committer on Open Distro for Elasticsearch. I have worked on numerous features and improvements around cross-region replication, replica placement, multi-az clusters and performance at Amazon Aurora, Amazon Elasticsearch Service and now Confluent Cloud. 
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
 
 <div class="row">
 {% include about/timeline.html %}
