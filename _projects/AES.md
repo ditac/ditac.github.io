@@ -1,7 +1,22 @@
 ---
-name: Root Cause Analysis Framework 
-tools: [performance, elasticsearch, opendistro]
-image: https://raw.githubusercontent.com/ditac/ditac.github.io/master/assets/rca.png
-description: RCA framework builds on Performance Analyzer to support root cause analysis (RCA) of performance and reliability problems for Elasticsearch instances. This framework would conduct real time root cause analysis of such problems using Performance Analyzer metrics. Root cause analysis can significantly improve operations, administration and provisioning of Elasticsearch clusters, and it can enable Elasticsearch client teams to tune their workloads to reduce errors.
-external_url: https://github.com/opendistro-for-elasticsearch/performance-analyzer-rca
+name: Amazon Elasticsearch Service
+tools: [aws, elasticsearch, opendistro]
+image: https://raw.githubusercontent.com/ditac/ditac.github.io/master/assets/aes.png
+description: Amazon Elasticsearch Service makes it easy to deploy, scale and
+monitor Elasticsearch clusters on AWS.
+external_url: https://aws.amazon.com/elasticsearch-service
 ---
+
+### Summary
+
+I worked with a group of three other engineers to build Amazon Elasticsearch
+Service. We were able to build a minimal implementation and onboarding private
+beta customers within 6 months. Some of the intersting features that I would
+like highlight were -
+1. Online upgrades and the ability to move cluster between instance types.
+2. Networking design and integration with the load-balancer.
+3. Security.
+4. Infrastructure provisioning - multi-az, multi-region, master/data nodes etc.
+
+I will highlight some of the features and design choices that we made in each
+of these areas.
