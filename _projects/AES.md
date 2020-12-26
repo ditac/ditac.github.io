@@ -2,9 +2,6 @@
 name: Amazon Elasticsearch Service
 tools: [aws, elasticsearch, opendistro]
 image: https://raw.githubusercontent.com/ditac/ditac.github.io/master/assets/aes.png
-description: Amazon Elasticsearch Service makes it easy to deploy, scale and
-monitor Elasticsearch clusters on AWS.
-external_url: https://aws.amazon.com/elasticsearch-service
 ---
 
 ### Summary
