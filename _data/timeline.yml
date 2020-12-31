@@ -1,25 +1,25 @@
-- title: Student, National Institute of Technology, Karnataka
+- title: National Institute of Technology, Karnataka
   from: 2004
   to: 2008
   description: Major in Computer Science.
 
 
-- title: MTS, Adobe Systems
+- title: Adobe Systems
   from: 2008
   to: 2011
   description: At Adobe, I worked on a web editor called Adobe Dreamweaver. I implemented features that generated HTML5, and made it easy to create and debug websites built with HTML/Javascript.
 
-- title: R&D Engineer, Haggle
+- title: Haggle
   from: 2012
   to: 2013
   description: Joined a startup with a couple of other friends. I built the scoring and negotiation engine that helped users discover and negotiate with businesses like restaurants, movie theaters etc. The app was launched in New York, with a select group of restaurants.
 
-- title: Senior Software Development Engineer, AWS
+- title: AWS
   from: 2013
   to: 2020
   description: I had a wonderful time at AWS working on large-scale distributed systmes like Amazon Aurora and Amazon Elasticsearch Service. I also got to contribute to open source software and am a committer on opendistro for Elasticsearch.
 
-- title: Software Engineer, Confluent
+- title: Confluent
   from: 2020
   to: present
   description: Working on improving performance, scalability and cost of running Apache Kafka on Confluent cloud.
