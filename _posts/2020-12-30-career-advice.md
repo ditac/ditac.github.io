@@ -54,9 +54,9 @@ that you can explain your thought process to them. Once the basic structure and
 vocabulary is in place, its much easier for people to understand and read code.
 
 #### Context/documentation
-When I built new projects from the scratch, the initial design documents went
-out of date very quickly. After the first release, I had to take time to
-onboard new engineers on the project. I have often focused on -
+On new projects, the initial design documents went out of date very quickly.
+Without the right documentation it can be hard to onboard new engineers. When writing documentation,
+I have often focused on -
 1. Why did we build this software?
 2. What are the goals/non-goals?
 3. Data-flow.
@@ -72,12 +72,12 @@ In addition to these, you will need guides and documentation around -
 4. How to run integration tests and the process for checking in a change.
 
 This can be done informally in small projects but writing it down will pay back
-dividends as time goes. Working with open-source projects with hundreds of
+dividends. Looking at open-source projects with hundreds of
 contributors can give you a good understanding of how to do this well. Writing
-design documents takes time and you will have to justify the impact often.
-A good way to tackle this is to write the document each time a new engineer
-joins the team. Instead of talking through the project with the engineer, share
-some written documents, take feedback and improve them. This scales really well
+design documents takes time and you will have to justify the impact to others
+on your team. A good way to prioritize documentation is to improve it each time
+a new engineer joins the team. Instead of talking through the project with the engineer,
+share some written documents, take feedback and improve them. This scales well
 as more engineers join. 
 
 There are also some components of a project that are prone to bugs. I have
