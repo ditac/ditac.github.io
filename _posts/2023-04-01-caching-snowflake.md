@@ -17,3 +17,6 @@ Snowflake's data warehousing system uses a write-through cache to ensure consist
 Intermediate data generated during queries is stored on SSD, further optimizing query performance. However, when tasks are spread across many nodes, a lot of intermediate data has to be transferred across nodes which can present a challenge for Snowflake's design. Compute resources are not multi-tenant and are reserved per warehouse. To mitigate this challenge, Snowflake uses a pool of resources to immediately assign compute resources when required.
 
 Overall, Snowflake's design prioritizes speed and efficiency in query processing through its innovative use of both persistent and ephemeral storage and intelligent task scheduling techniques. By utilizing a write-through cache and horizontal partitioning with PAX encoding, Snowflake minimizes I/O operations during query processing while ensuring consistency between the cache and main storage. Intermediary data is stored on SSD to further optimize query performance, and a pool of resources is employed to quickly assign compute resources when required.
+
+## References
+[Snowflake Elastic Query Engine](https://www.usenix.org/system/files/nsdi20-paper-vuppalapati.pdf)

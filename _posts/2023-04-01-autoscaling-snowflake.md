@@ -13,3 +13,5 @@ Readonly queries are also more common during office-hours on weekdays, which mea
 
 Overall, autoscaling is a valuable tool for Snowflake customers who have unpredictable workloads and need the flexibility to scale their compute resources on demand.
 
+## References
+[Snowflake Elastic Query Engine](https://www.usenix.org/system/files/nsdi20-paper-vuppalapati.pdf)

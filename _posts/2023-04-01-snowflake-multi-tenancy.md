@@ -19,3 +19,7 @@ Scaling up before demand is also a challenge with dedicated virtual warehouses. 
 Lastly, multi-tenant caching is hard with Snowflake's current design. If one customer causes a scale-up, a new node comes up with a cold cache and affects other customers' performance. This is one of the key challenges that needs to be addressed before moving to a multi-tenant design.
 
 In conclusion, moving towards multi-tenancy is the logical next step for Snowflake. It will lead to better resource utilization, cost savings, and improved performance for all customers. With the growing demand for fine-grained billing and better resource utilization, it is time for Snowflake to embrace multi-tenancy.
+
+
+## References
+[Snowflake Elastic Query Engine](https://www.usenix.org/system/files/nsdi20-paper-vuppalapati.pdf)
