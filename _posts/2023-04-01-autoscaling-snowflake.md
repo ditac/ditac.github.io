@@ -2,7 +2,7 @@
 title: Autoscaling in Snowflake
 tags: [snowflake, datawarehouse, architecture, auto-scaling]
 style: fill
-color: warning
+color: secondary
 description: How caching works in the snowflake data warehouse
 ---
 The workloads in the Snowflake data warehouse are varied and can be unpredictable. It is difficult for customers to predict when they will need more compute resources, especially during peak usage times. This is where autoscaling comes in, allowing customers to easily scale their resources up or down based on demand.

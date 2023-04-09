@@ -2,7 +2,7 @@
 title: Why Snowflake needs Multi-tenancy
 tags: [snowflake, datawarehouse, architecture, caching]
 style: fill
-color: warning
+color: secondary
 description: How snowflake can improve by supporting multi-tenancy
 ---
 

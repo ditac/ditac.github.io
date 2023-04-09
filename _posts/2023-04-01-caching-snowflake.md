@@ -2,7 +2,7 @@
 title: Caching in Snowflake
 tags: [snowflake, datawarehouse, architecture, caching]
 style: fill
-color: warning
+color: secondary
 description: How caching works in the snowflake data warehouse
 ---
 

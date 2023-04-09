@@ -2,7 +2,7 @@
 title: Code Readability
 tags: [coding, Software Engineering, readability]
 style: fill
-color: warning
+color: light
 description: How to write good code
 ---
 When I'm on a brand new team, my coding and debugging skills always come in handy. As a software engineer, my ability to code has been the most helpful. When I don't write a lot of code, I still find it easy and satisfying to read and understand code. This allows me to learn from the ground up, which gives me a boost.
