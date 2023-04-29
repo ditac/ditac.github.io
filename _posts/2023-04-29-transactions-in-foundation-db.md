@@ -19,4 +19,4 @@ All of this happens on the client side, so you have full control over how your t
 Overall, sequencers and resolvers work together to ensure that transactions in FoundationDB are ordered, consistent, and conflict-free. So go ahead, build something awesome on top of FoundationDB with confidence!
 
 ## References
-[Its time to replace TCP](https://arxiv.org/abs/2210.00714)
+[A distributed unbundled transaction store](https://www.foundationdb.org/files/fdb-paper.pdf)
